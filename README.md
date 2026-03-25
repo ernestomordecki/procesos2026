@@ -1,1 +1,1 @@
-This is the material corresponding to the course Procesos Estocasticos taught in 2026 in the Maestria de matematica, Pedeciba
+This is the material corresponding to the course Procesos Estocasticos taught in 2026 in the Maestria de matematica, Pedeciba, by Ernesto Mordecki, Universidad de la Repbublica, Facultad de Ciencias, Centro de Matematica, Montevideo, Uruguay
